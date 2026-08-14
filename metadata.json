@@ -1,0 +1,6 @@
+{
+  "name": "Chrona",
+  "description": "AI-powered unified digital workspace with intelligent task scheduling, connected apps, and integrated coding environment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
